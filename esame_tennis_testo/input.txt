@@ -1,0 +1,8 @@
+G;Pablo;Cuevas;19860101;Uruguay
+G;Nicolas;Mahut;19820121;France
+T;BNP Paribas Open;Indian Wells, CA, USA;1000;128
+G;Richard;Gasquet;19860618;France
+T;Roland Garros;Paris, France;2000;256
+G;Gilles;Simon;19841227;France
+	
+	
